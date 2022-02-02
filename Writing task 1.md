@@ -13,6 +13,19 @@
   - fall / a fall
   - decline / a decline
 
+### Adjectively / Adverb
+  - steady / steadily
+  - gradual / gradually
+  - sharp / sharply
+  - rapid / rapidly
+  - steep / steeply
+  - slight / slighty
+  - dramatic / dramatically
+  - significant / significantly
+  - considerable / cosiderably
+
+
+
 ### Other vocabulary
   - fluctuate / a fluctuation
   - dip / a dip
