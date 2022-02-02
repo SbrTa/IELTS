@@ -13,7 +13,7 @@
   - fall / a fall
   - decline / a decline
 
-### Adjectively / Adverb
+### Adjective / Adverb
   - steady / steadily
   - gradual / gradually
   - sharp / sharply
@@ -24,7 +24,17 @@
   - significant / significantly
   - considerable / cosiderably
 
-
+### Time phrases
+  - over the next N days
+  - X days later
+  - in the following N days
+  - the next N days show
+  - over the period
+  - from A to B
+  - between A and B
+  - the first/last/final year
+  - at the beginning of the period
+  - at the end of the period
 
 ### Other vocabulary
   - fluctuate / a fluctuation
