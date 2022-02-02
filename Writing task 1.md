@@ -13,3 +13,15 @@
   - fall / a fall
   - decline / a decline
 
+### Other vocabulary
+  - fluctuate / a fluctuation
+  - dip / a dip
+  - remain steady
+  - remain stable
+  - remain unchanged
+  - peak at
+  - reach a peak of
+  - hit a high of
+  - hit a low of
+  - bottom out
+  - plateau
