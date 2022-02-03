@@ -23,6 +23,9 @@
   - dramatic / dramatically
   - significant / significantly
   - considerable / cosiderably
+  - significant / significantly
+  - remarkable / remarkably
+  - surprise / surprisingly
 
 ### Time phrases
   - over the next N days
